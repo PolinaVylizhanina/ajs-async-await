@@ -1,2 +1,4 @@
 dist
 webpack.config.js
+parser.js
+reader.js
